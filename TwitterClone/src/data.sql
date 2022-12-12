@@ -1,0 +1,1 @@
+insert into messages(id, content, producerID) values(5, "data incoming", 33);
